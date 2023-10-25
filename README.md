@@ -14,7 +14,7 @@
   <p>Update bus details</p>
   <p>Delete Bus<p/>
 
-    <br>
+
   <h2>Passenger<h2/>
     
    <p>Sign up Sign in<p/>
@@ -23,4 +23,4 @@
    <p> Booking History<p/>
    <p>Change Profile details<p/>
    <p>Delete Account<p/>
-<br>
+
