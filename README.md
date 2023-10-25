@@ -3,7 +3,7 @@
 ## Bus Reservation System
 <h1>BUSBOOKER<h1/>
 
-<img src="#IMG" style="width: 350px; max-width: 100%; height: auto"; title="Click to enlarge picture" />
+<img align="center" src="https://github.com/Navneet3009/wasteful-underwear-8541/blob/main/BUSBOOKER.png?raw=true" style="width: 250px; max-width: 100%; height: auto" title="Click to enlarge picture" />
 
 # Having Following Functionality
   
